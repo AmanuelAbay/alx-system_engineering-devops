@@ -1,0 +1,10 @@
+mon(2)				eniac man page				       	man(2)
+
+NAME 
+     eniac- the first electronic general-purpose digital computer.
+
+SYNOPSIS 
+	 eniac
+
+DESCRIPTION
+	Eniac was Turing-complete, and able to solve "a large class of numerical problems" through reprogramming.
